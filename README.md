@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Inchangs Boutique Online Website
 
 Laravel-based fashion boutique system for the ITC 121 / ITP 121 final exam. The code uses Laravel controllers, Blade views, sessions, validation, CSRF protection, AJAX requests, DataTables, Query Builder, and a normalized relational database design. No Eloquent models are used.
@@ -36,3 +37,7 @@ Laravel-based fashion boutique system for the ITC 121 / ITP 121 final exam. The 
 - CRUD: users and order status management; product/category APIs remain available for database-driven data
 - DataTables: categories, products, orders, users, logs, my orders
 - AJAX: login, customer registration, logout, CRUD, checkout, order status updates
+=======
+# Final-exam
+laravelproject
+>>>>>>> d4dc739ecdd50732ac8a5fcd322459a756e76923
