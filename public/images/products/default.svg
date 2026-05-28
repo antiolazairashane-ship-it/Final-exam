@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675">
+  <rect width="900" height="675" fill="#e8f5ec"/>
+  <circle cx="700" cy="140" r="90" fill="#168a4a" opacity="0.16"/>
+  <path d="M390 130h120l38 115 90 62-44 78-68-34v184H374V351l-68 34-44-78 90-62 38-115z" fill="#fff" stroke="#168a4a" stroke-width="14" stroke-linejoin="round"/>
+  <text x="450" y="610" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#105f3a">Inchangs Boutique</text>
+</svg>

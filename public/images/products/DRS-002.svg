@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675">
+  <rect width="900" height="675" fill="#dff2dd"/>
+  <circle cx="715" cy="135" r="92" fill="#2f8d5a" opacity="0.2"/>
+  <circle cx="160" cy="570" r="130" fill="#2f8d5a" opacity="0.16"/>
+  <path d="M390 135h120l38 115 92 62-44 78-70-34v184H374V356l-70 34-44-78 92-62 38-115z" fill="#fff" opacity="0.92" stroke="#2f8d5a" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M410 135c16 36 64 36 80 0" fill="none" stroke="#2f8d5a" stroke-width="12" stroke-linecap="round"/>
+  <rect x="315" y="535" width="270" height="48" rx="24" fill="#2f8d5a" opacity="0.9"/>
+  <text x="450" y="565" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#fff">DRS-002</text>
+  <text x="450" y="625" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#20211f">Floral Day Dress</text>
+</svg>
